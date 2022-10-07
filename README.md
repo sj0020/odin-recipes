@@ -1,2 +1,3 @@
 # odin-recipes
-the odin project
+from [the odin project](https://www.theodinproject.com/lessons/foundations-recipes)
+
